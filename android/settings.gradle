@@ -1,0 +1,3 @@
+rootProject.name = 'fortuneCookieApp'
+
+include ':app'
